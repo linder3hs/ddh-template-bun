@@ -40,5 +40,5 @@ test("sum", () => {
 `terminal`
 
 ```bash
-bun wiptest
+bun run test
 ```
